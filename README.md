@@ -13,6 +13,6 @@
           
           <h2>Layout<h2>
             <p align="center">
-<img align="center" src=https://imgur.com/a/dd56D7I
+<img src=https://imgur.com/a/dd56D7I
  style="width: 55%;" alt="Seleção de personagens">
 </p>
