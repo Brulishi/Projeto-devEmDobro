@@ -13,6 +13,5 @@
           </tr>
           
          <h3> Layout <h3> 
-          https://imgur.com/a/dd56D7I
 
 
