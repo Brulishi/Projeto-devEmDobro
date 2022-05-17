@@ -13,7 +13,7 @@
           </tr>
       </table>
     
-         <h2>Layout:<h2>
-           <img sr="https://imgur.com/a/dd56D7I" alt=""Seleção de personagens>
+       <img align="center" src=https://i.imgur.com/Qnc9Fge.png
+ style="width: 55%;" alt="Sinergy Logo">
 
 
