@@ -11,7 +11,7 @@
         <td align="center">
    <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
           
-          <h2>Layout<h2>
+          Layout
             <p align="center">
 <img src=https://imgur.com/a/dd56D7I
  style="width: 55%;" alt="Seleção de personagens">
