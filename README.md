@@ -14,5 +14,7 @@
       </table>
     
       layout
+    <img align="center" src=https://i.imgur.com/Qnc9Fge.png
+ style="width: 55%;" alt="Sinergy Logo">
 
 
