@@ -10,6 +10,7 @@
    <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <td align="center">
    <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+          </tr>
           
          <h3> Layout <h3> 
           https://imgur.com/a/dd56D7I
