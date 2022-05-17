@@ -12,6 +12,7 @@
    <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
           </tr>
       </table>
-         <h2>Layout<h2>
+         <h2>Layout:<h2>
+           <img sr="https://imgur.com/a/dd56D7I">
 
 
